@@ -4,9 +4,9 @@
 I primarily used **Edinburgh Genome Foundry's** "DNA Features Viewer" library for the image.
 
 1. Edinburgh Genome Foundry (2021) **DNA Features Viewer** (Version 3.03). [https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer](https://github.com/Edinburgh-Genome-Foundry/DnaFeaturesViewer)
-    `Used the library to create the image.`
+    (Used the library to create the image.)
 2. National Center for Biotechnology Information (2021) **Sample Genbank Record**. [https://www.ncbi.nlm.nih.gov/Sitemap/samplerecord.html](https://www.ncbi.nlm.nih.gov/Sitemap/samplerecord.html)
-    `Used the website to understand the genbank.`
+    (Used the website to understand the genbank.)
 
 Other than that, I used the genbank file provided by ACM UTD and used [https://coolors.co/](https://coolors.co/) for the color palette.
 
